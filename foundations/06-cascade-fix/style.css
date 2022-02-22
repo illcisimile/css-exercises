@@ -3,17 +3,32 @@
   color: hsl(0, 100%, 50%);
 }
 
+<<<<<<< HEAD
+=======
+.small-para {
+  font-size: 14px;
+}
+
+>>>>>>> eb02f13381954daefd6c18320923db0145af99b4
 .para {
   font-size: 22px;
 }
 
+<<<<<<< HEAD
 .small-para {
   font-size: 12px;
 }
+=======
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+>>>>>>> eb02f13381954daefd6c18320923db0145af99b4
 
 .button {
-  background-color: #ffc0cb;
-  color: black;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-size: 20px;
 }
 
@@ -31,5 +46,10 @@
 
 div.text {
   color: green;
+<<<<<<< HEAD
   font-size: 28px;
 }
+=======
+  font-size: 22px;
+}
+>>>>>>> eb02f13381954daefd6c18320923db0145af99b4
